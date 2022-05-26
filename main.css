@@ -77,14 +77,3 @@ button{
 .about__info{
     max-width: 550px;
 }
-
-h1, h2{
-    font-family: "Arial";
-}
-
-.box {
-    padding: 50px;
-    margin: 25px;
-    background: green;
-    color: white;
-   }
